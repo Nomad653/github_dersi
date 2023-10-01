@@ -12,7 +12,7 @@ from sklearn.metrics import classification_report
 # 
 print("Salam")
 print(st.title("Titanik faciəsindən sağ çıxa bilərdinizmi?"))
-
+#Github-u yoxladim
 age = 0
 sibling = 0 
 gender = 0
